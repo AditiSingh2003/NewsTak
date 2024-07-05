@@ -1,0 +1,16 @@
+com.example.newzee.app-webkit-1.5.0-0 C:\Users\Aditi Singh\.gradle\caches\transforms-3\02946dd71cd66d0a577c9bf7a42aac98\transformed\webkit-1.5.0\res
+com.example.newzee.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Aditi Singh\.gradle\caches\transforms-3\308a0857d9511b986a0a28ab79a43195\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.newzee.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Aditi Singh\.gradle\caches\transforms-3\51f2918890fffa8ac42351fd708db86a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.newzee.app-jetified-window-1.0.0-beta04-3 C:\Users\Aditi Singh\.gradle\caches\transforms-3\5a3ba33da1e4eacc760d15398561baf7\transformed\jetified-window-1.0.0-beta04\res
+com.example.newzee.app-core-1.6.0-4 C:\Users\Aditi Singh\.gradle\caches\transforms-3\cf73cc8a4ba953430926b62a90018a2f\transformed\core-1.6.0\res
+com.example.newzee.app-debug-5 D:\NewZee\android\app\src\debug\res
+com.example.newzee.app-main-6 D:\NewZee\android\app\src\main\res
+com.example.newzee.app-pngs-7 D:\NewZee\build\app\generated\res\pngs\debug
+com.example.newzee.app-resValues-8 D:\NewZee\build\app\generated\res\resValues\debug
+com.example.newzee.app-rs-9 D:\NewZee\build\app\generated\res\rs\debug
+com.example.newzee.app-mergeDebugResources-10 D:\NewZee\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.newzee.app-mergeDebugResources-11 D:\NewZee\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.newzee.app-merged_res-12 D:\NewZee\build\app\intermediates\merged_res\debug
+com.example.newzee.app-packaged_res-13 D:\NewZee\build\path_provider_android\intermediates\packaged_res\debug
+com.example.newzee.app-packaged_res-14 D:\NewZee\build\sqflite\intermediates\packaged_res\debug
+com.example.newzee.app-packaged_res-15 D:\NewZee\build\webview_flutter_android\intermediates\packaged_res\debug
